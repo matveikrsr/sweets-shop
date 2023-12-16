@@ -1,0 +1,88 @@
+*{
+    margin:0;
+}
+body{
+    background-image: url(phg.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+header{
+    padding: 10px 5%;
+    background-color:white;
+}
+header>*{
+    display: inline-block;
+    width:500px;
+}
+.pustota{
+    width:10%;
+}
+header a{
+        text-decoration:none;
+        color: black;
+        margin:0 10px;
+}
+.banner{
+    padding: 20% 5%;
+    color: black;
+    font-size: 30px;
+}
+.post{
+    padding: 10px 5%;
+    text-align: center;
+    background-color:white;
+}
+.post>*{
+    display: inline-block;
+    width:450px;
+    font-size:30px;
+    vertical-align: middle;
+}
+.razryv{
+    height:700px;
+}
+#final{
+    padding: 15% 30%;
+    background-image: url(еки.jpg);
+    background-attachment: fixed;
+}
+#final>div{
+    padding: 10px;
+    background-color: white;
+    font-size:30px;
+    text-align: center;
+    border: 4px solid black;
+}
+footer{
+    background-color:black;
+    padding:10px 0;
+    text-align: center;
+    color:white;
+}
+.frst{
+    color:black;
+    font-family:monospace;
+    
+}
+p{
+    font-family: 'Gabriela', serif;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+header{
+    background-image: url(ptrn.jpg);
+}
+header{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    
+}
+    
+main{font-family: 'Gabriela', serif;
+        font-family: 'Montserrat', sans-serif;
+}
+article{
+        
+        font-color:white;
+}
